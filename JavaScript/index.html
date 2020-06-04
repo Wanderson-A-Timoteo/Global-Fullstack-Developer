@@ -6,7 +6,25 @@
     <script type="text/javascript" src="js/main.js"></script>
     <title>Minha Página</title>
 </head>
-<body>
+<body onload="load()">
     <h1>Verificar resultados no console, na inspeção de página</h1>
+    <button type="button" onclick="clicou()"> Clique Aqui </button>
+    <!-- <h3 id="agradecimento"></h3> -->
+    <p id="agradecimento" onclick="redirecionar()"></p>
+    <!-- 
+    <p id="mousemove" onmousemove="trocar()">Passe o mouse aqui</p>
+    -->
+
+
+    <!--Dessa forma os dois ficam com a mesma função e eu não preciso do id -->
+    <p onmousemove="trocar(this)" onmouseout="voltar(this)"> Passe o mouse aqui </p>
+
+    <p onmousemove="trocar(this)" onmouseout="voltar(this)"> Passe o mouse aqui </p>
+
+    <select name="" id="" onchange="funcaoChange(this)">
+        <option value="1">Valor 1</option>
+        <option value="2">Valor 2</option>
+        <option value="3">Valor 3</option>
+    </select>
 </body>
 </html>
