@@ -44,3 +44,10 @@ for num in range (a):
             div += 1
     if div == 2:
         print(num)
+print('numero\n')
+
+resultado = 0
+for x in range(1, 10):
+    if x < 9:
+        resultado += 1
+        print(resultado)
