@@ -79,3 +79,24 @@ print(len(tupla))
 print(len(lista_animal))
 
 
+print('\n\n')
+
+lista_paises = ['Brasil', 'Escócia', 'Alemanha', 'Inglaerra']
+lista.sort ()
+lista_paises.sort ()
+
+
+lista1 = [1, 3, 2, 4]
+lista1.sort()
+lista1.reverse()
+print(lista1)
+
+
+print('\n\n')
+
+lista = [3, 5, 7, 10, 11]
+resultado = []
+for x in lista:
+    if x % 2 == 1:
+        resultado.append(x)
+print(resultado)
