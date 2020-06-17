@@ -139,3 +139,5 @@ print('Canal: {}'.format(tev_2.canal))
 # Diminui canal
 tev_2.diminui_canal()
 print('Canal: {}'.format(tev_2.canal))
+
+print('n\n\)'
