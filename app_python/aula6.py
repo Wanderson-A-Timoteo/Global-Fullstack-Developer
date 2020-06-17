@@ -46,3 +46,22 @@ print(conjunto_animais)
 
 lista_animais = list(conjunto_animais)
 print(lista_animais)
+
+
+print('\n')
+
+conjunto3 = {10, 20, 30, 40, 50}
+conjunto3.discard (40)
+print(conjunto3)
+
+print('\n')
+
+conjunto_ab = {1, 1, 3, 4, 5}
+conjunto_ba = {1, 3, 6}
+conjunto_ab.add(6)
+conjunto_ab.remove(1)
+resultadon = list(conjunto_ab.intersection(conjunto_ba))
+print(resultadon)
+
+conjuntog = {1, 2, 2, 1, 4, 5}
+print(conjuntog)
