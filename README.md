@@ -2,8 +2,8 @@
   <img 
     align="center" 
     alt="Logo DIO" title="Digital Innovation One" 
-    src="github/logo-dio.png"
-    width="50px"
+    src="github/dio-fundo-branco.png"
+    width="60px"
   />
   Global FullStack Developer
 </h1>
@@ -30,12 +30,13 @@
 Bootcamp realizado pela plataforma de ensino Digital Innovation One.
 <br>
 Neste o aluno aprende desde o princípio básico a programar nas mais requisitadas linguagens de programação da atualidade.
+<br>
 
-### Tela em desktop
+### Certificado de conclusão
 
 <p align="center">
     <img alt="Certificado de conclusão de curso" title="Certificado de conclusão do curso Global FullStack Developer" 
-    src="github/global-fullStack-developer.png" />
+    src="github/global-fullstack-developer.png" />
 </p>
 <br>
 
@@ -45,11 +46,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias e ferramentas:
 
 - [HTML5](https://www.w3schools.com/html/)
 - [CSS3](https://www.w3schools.com/css/default.asp)
+- [Bootstrap](https://getbootstrap.com/)
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [React.js](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Node.js](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-
-
+- [Python](https://www.python.org/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [jQuery](https://jquery.com/)
 
 <br>
 
@@ -79,7 +82,8 @@ Feito com ♥ by
 
 <div align="center">
   <img alt="Digital Innovation One" 
-       src="github/digital-innovation-one.png" 
+       src="github/dio.me-fundo-transparente.png" 
+       width="500px"
   />
 
 <br>
