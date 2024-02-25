@@ -73,7 +73,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](github/LICENSE.m
 
 Feito com ♥ by
 
--  [**Wanderson A. Timóteo**](https://www.wandersontimoteo.ga/)
+-  [**Wanderson A. Timóteo**](https://www.wandersontimoteo.com.br)
 
 <br>
 
